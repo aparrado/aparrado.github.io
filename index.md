@@ -19,7 +19,7 @@ I am a Senior Associate at IDinsight based out of Delhi, India. My research inte
     <div class="row-fluid">
         <div class="span5">
             Andrés L. Parrado<br/>
-            Email: andres.parrado@idinsight.org<br/>
+            Email: andresparrado63@gmail.com<br/>
         </div>
 
         <div class="span2">
