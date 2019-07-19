@@ -1,13 +1,17 @@
 ---
 layout: page
-title: Written Work
+title: Projects
 description: Andrés's previous work
 ---
-Here are a few things that I've written in the past:
+Here are a few things that I've written and done in the past:
 
-* [Right tool, right time: Statistical software at IDinsight](https://medium.com/idinsight-blog/right-tool-right-time-statistical-softwares-at-idinsight-2fef44a1d4c9)
+* [Right tool, right time: Statistical software at IDinsight](https://medium.com/idinsight-blog/right-tool-right-time-statistical-softwares-at-idinsight-2fef44a1d4c9). Wrote about how we used R, Python, and Stata at IDinsight.
 
-* [Final reflection as the co-Project Manager of an Engineers Without Borders project in Perú](https://ewb.princeton.edu/peru-blog/a-pms-reflections-by-andres-parrado/)
+* [Shiny app](https://building1community.shinyapps.io/b1c_asset_mapping/) that shows different resources available for migrant communities in Stamford CT.
+
+* [Engineers Without Borders - Perú](https://ewb.princeton.edu/peru-blog/a-pms-reflections-by-andres-parrado/). Build a gravity-fed water system with a team of Princeton students and community members in Perú.
+
+
 
 
 
