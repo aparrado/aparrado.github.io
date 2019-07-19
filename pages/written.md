@@ -7,7 +7,7 @@ Here are a few things that I've written and done in the past:
 
 * [Right tool, right time: Statistical software at IDinsight](https://medium.com/idinsight-blog/right-tool-right-time-statistical-softwares-at-idinsight-2fef44a1d4c9). Wrote about how we used R, Python, and Stata at IDinsight.
 
-* [Shiny app](https://building1community.shinyapps.io/b1c_asset_mapping/) that shows different resources available for migrant communities in Stamford CT.
+* Created a [shiny app](https://building1community.shinyapps.io/b1c_asset_mapping/) that shows different resources available for migrant communities in Stamford CT.
 
 * [Coreographed a dance piece](https://www.youtube.com/watch?v=1-RejKfxeSk) as part of Naacho - Princeton's premier South Asian dance troupe.
 

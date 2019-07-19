@@ -5,7 +5,7 @@ description: Andrés L. Parrado is a Senior Associate at IDinsight.
 keywords: economics, research, political economy, recycling, mail, being a good boy
 ---
 
-I am a Senior Associate at IDinsight based out of Delhi, India. My research interests include financial inclusion, the political economy of development, state capacity, and behavioral economics.
+I am a Senior Associate at IDinsight based out of Delhi, India. I am interested in financial inclusion, the political economy of development, state capacity, collective cognition, and behavioral economics.
 
 [curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>
 
