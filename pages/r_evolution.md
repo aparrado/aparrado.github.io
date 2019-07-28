@@ -4,7 +4,7 @@ title: R_evolution
 description: Materials to teach R
 ---
 
-As part of IDinsight's ongoing effort to help everyone achieve their professional development goals, some colleagues and I led a few workshops on using R. We created materials for these sessions based on content and datasets available online for free. The presentations we made for the four sessions we led are below.
+As part of IDinsight's ongoing effort to help everyone achieve their professional development goals, some colleagues and I led a few workshops on using R for data analysis and data visualization. We created materials for these sessions based on content and datasets available online for free. The presentations we made for the four sessions we led are below.
 
 * [Session 1:]({{ BASE_PATH}}/pages/r_evolution/R_Session_1.pdf)        R for data analysis and visualization
 
