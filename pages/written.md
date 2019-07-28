@@ -11,7 +11,7 @@ Here are a few things that I've written and done in the past:
 
 * [Coreographed a dance piece](https://www.youtube.com/watch?v=1-RejKfxeSk) as part of Naacho - Princeton's premier South Asian dance troupe.
 
-* [Engineers Without Borders - Perú](https://ewb.princeton.edu/peru-blog/a-pms-reflections-by-andres-parrado/). Build a gravity-fed water system with a team of Princeton students and community members in Perú.
+* [Engineers Without Borders - Perú](https://ewb.princeton.edu/peru-blog/a-pms-reflections-by-andres-parrado/). Built a gravity-fed water system with a team of Princeton students and community members in Perú.
 
 * [Volunteered in Serbia](https://www.princeton.edu/bridgeyear/updates/serbia/index.xml?id=4215) at two local NGOs for nine months to create awareness about HIV prevention and youth issues.
 
