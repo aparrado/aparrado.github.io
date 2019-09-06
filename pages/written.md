@@ -13,7 +13,7 @@ Here are a few things that I've written and done in the past:
 
 * Engineers Without Borders - Perú. [Video](https://www.princeton.edu/news/2014/12/16/student-work-engineers-without-borders-peru) and [write-up](https://ewb.princeton.edu/peru-blog/a-pms-reflections-by-andres-parrado). Built a gravity-fed water system with a team of Princeton students and community members in Perú.
 
-* [Volunteered in Serbia](http://kom018.org.rs/blog-by-andres-parrado/) at two local NGOs for nine months to create awareness about HIV prevention and youth issues.
+* Volunteered in Serbia at two local NGOs for nine months to create awareness about [HIV prevention](http://www.omladinajazas.rs/) and [youth issues](https://kom018.org.rs/en/).
 
 
 
