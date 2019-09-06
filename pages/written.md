@@ -9,7 +9,7 @@ Here are a few things that I've written and done in the past:
 
 * Created a [shiny app](https://building1community.shinyapps.io/b1c_current/) that shows different resources available for migrant communities in Stamford CT.
 
-* [Coreographed a dance piece](https://www.youtube.com/watch?v=1-RejKfxeSk) as part of Naacho - Princeton's premier South Asian dance troupe.
+* [Choreographed a dance piece](https://www.youtube.com/watch?v=1-RejKfxeSk) as part of Naacho - Princeton's premier South Asian dance troupe.
 
 * Engineers Without Borders - Perú. [Video](https://www.princeton.edu/news/2014/12/16/student-work-engineers-without-borders-peru) and [write-up](https://ewb.princeton.edu/peru-blog/a-pms-reflections-by-andres-parrado). Built a gravity-fed water system with a team of Princeton students and community members in Perú.
 
