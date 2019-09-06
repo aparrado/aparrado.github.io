@@ -5,7 +5,7 @@ description: Andrés's previous work
 ---
 Here are a few things that I've written and done in the past:
 
-* [Right tool, right time: Statistical software at IDinsight](https://medium.com/idinsight-blog/right-tool-right-time-statistical-softwares-at-idinsight-2fef44a1d4c9). Wrote about how we used R, Python, and Stata at IDinsight.
+* [Right tool, right time: Statistical software at IDinsight](https://medium.com/idinsight-blog/right-tool-right-time-statistical-softwares-at-idinsight-2fef44a1d4c9). Wrote about how we use R, Python, and Stata at IDinsight.
 
 * Created a [shiny app](https://building1community.shinyapps.io/b1c_current/) that shows different resources available for migrant communities in Stamford CT.
 
