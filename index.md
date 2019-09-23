@@ -33,7 +33,7 @@ Hi there! My name is Andrés and I am a Senior Associate at IDinsight based out 
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="{{ BASE_PATH }}/assets/CV.pdf">cv</a></li>
+          <li><a href="{{ BASE_PATH }}/assets/CV.pdf">CV</a></li>
           <li><a href="https://github.com/aparrado">GitHub</a></li>
           <li><a href="https://twitter.com/andresparrado63">Twitter (@andresparrado63)</a></li>
       </ul>
