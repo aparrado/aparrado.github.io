@@ -5,7 +5,7 @@ description: Andrés L. Parrado is a Senior Associate at IDinsight.
 keywords: economics, research, political economy, collective cognition, behavioral economics, state capacity
 ---
 
-Hi there! My name is Andrés and I am a Senior Associate at IDinsight based out of New Delhi, India. I am interested in financial inclusion, the political economy of development, state capacity, collective cognition, and behavioral economics.
+Hi there! My name is Andrés and I am a Manager at IDinsight based out of New Delhi, India. I am interested in financial inclusion, the political economy of development, state capacity, collective cognition, and behavioral economics.
 
 [curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>
 
