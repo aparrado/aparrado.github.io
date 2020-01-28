@@ -4,8 +4,9 @@ title: Research
 description: Here are some of my ongoing research projects:
 ---
 
-### Working Papers:
+# Research
 
+### Working Papers
 
 #### <u>Be the Best!: Do SMS Reminders Improve Banking Agent Performance in Rural India? </u> 
 
