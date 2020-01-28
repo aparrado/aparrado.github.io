@@ -4,7 +4,7 @@ title: Research
 description: Here are some of my ongoing research projects:
 ---
 
-Here are some of my ongoing research projects:
+## Working Papers:
 
 
 &nbsp;
