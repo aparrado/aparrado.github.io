@@ -10,8 +10,6 @@ Here are some of my ongoing research projects:
 &nbsp;
 
 #### <u>Be the Best!: Do SMS Reminders Improve Banking Agent Performance in Rural India? </u> 
-*With Krishanu Chakraborty and Karan Nagpal.*
-&nbsp;
 
  We use three randomized experiments to test whether sending behaviorally-informed SMS reminders to banking agents improves their work performance. In particular, we measure the
 effect of these reminders on agents’ efforts at enrolling customers into government pension and
@@ -25,7 +23,7 @@ to design the other two experiments, with 3,398 and 1,776 agents working with tw
 increase enrollment in the government’s insurance programs. SMS reminders increased enrollment in insurance products too, but only for agents working with one of the two partner banks.
 This bank is known for its commitment to financial inclusion. Overall, our results suggest that
 SMS reminders can be a cost-effective way to motivate agent performance, but only within a
-supportive ecosystem. 
+supportive ecosystem. *With Krishanu Chakraborty and Karan Nagpal.*
 
 [click here for the most recent version of the paper](https://www.isid.ac.in/~epu/acegd2019/papers/Andr%E9sParrado.pdf)
 
