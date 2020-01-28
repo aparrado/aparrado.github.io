@@ -4,7 +4,7 @@ title: Research
 description: Here are some of my ongoing research projects:
 ---
 
-
+Here are some of my ongoing research projects:
 
 #### <u>Be the Best!: Do SMS Reminders Improve Banking Agent Performance in Rural India? </u>
 With Krishanu Chakraborty and Karan Nagpal. We use three randomized experiments to test whether sending behaviorally-informed SMS reminders to banking agents improves their work performance. In particular, we measure the
