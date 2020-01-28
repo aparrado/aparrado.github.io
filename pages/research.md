@@ -8,13 +8,10 @@ Here are some of my ongoing research projects:
 
 
 &nbsp;
-&nbsp;
 
 #### <u>Be the Best!: Do SMS Reminders Improve Banking Agent Performance in Rural India? </u> 
 *With Krishanu Chakraborty and Karan Nagpal.*
-
 &nbsp;
-
  We use three randomized experiments to test whether sending behaviorally-informed SMS reminders to banking agents improves their work performance. In particular, we measure the
 effect of these reminders on agents’ efforts at enrolling customers into government pension and
 insurance programs in India. The first randomized experiment, with 3,120 banking agents, focused on increasing enrollments in the government’s pension program using three behavioural
